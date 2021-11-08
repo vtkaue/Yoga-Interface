@@ -1,0 +1,92 @@
+* {
+  font-family: "Roboto", sans-serif;
+  background: #e5e5e5;
+  margin: 0;
+  padding: 0;
+}
+.img-symbol {
+  display: block;
+  margin: 195px auto 122px auto;
+}
+a {
+  text-decoration: none;
+}
+input {
+  display: block;
+  width: 321px;
+  height: 46px;
+  background: #f7f7f7;
+  box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+  border-radius: 10px;
+  margin: 0 auto;
+  border: none;
+}
+.input-password {
+  margin-top: 21px;
+  padding-left: 19px;
+  font-size: 13px;
+  line-height: 15px;
+  color: #969696;
+}
+.input-email {
+  margin-top: 21px;
+  padding-left: 19px;
+  font-size: 13px;
+  line-height: 15px;
+  color: #969696;
+}
+.linkpassword {
+  display: block;
+  margin-top: 35px;
+  text-align: right;
+  margin-right: 30px;
+  text-decoration: none;
+  font-size: 13px;
+  line-height: 15px;
+  color: #000000;
+}
+button {
+  display: block;
+  margin: 0 auto;
+  font-size: 15px;
+  line-height: 18px;
+  color: #ffffff;
+  margin-top: 38px;
+  width: 133px;
+  height: 46px;
+  background: #323232;
+  box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+  border-radius: 10px;
+}
+button:hover {
+  opacity: 0.9;
+}
+.linksingup {
+  display: block;
+  margin-top: 21px;
+  text-align: center;
+  font-size: 15px;
+  line-height: 18px;
+  color: #969696;
+  text-decoration: none;
+}
+strong {
+  color: #323232;
+}
+p {
+  margin-top: 62px;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #000000;
+}
+.container {
+  display: block;
+  margin-top: 18px;
+  text-align: center;
+  margin-bottom: 80px;
+}
+.imgdots {
+  margin: 0 16px;
+}
