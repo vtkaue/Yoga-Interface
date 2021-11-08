@@ -1,28 +1,27 @@
-# Yoga interface
+# Yoga Interface
 
 
-<img src="./Yoga-Interface.png" alt="Interface Yoga" width="300px">
 
+<img src="./Assents/Yoga-Interface.png"  widht="250px" alt="Yoga-Iterface">
 
-> Finished Interface Image.
+> Yoga-Interface finalized
 
 ### Adjustments and improvements
 
-The project is still under development and future updates will focus on the following tasks:
+The project is still under development and how updates will be focused on the following tasks:
 
 - [x] HTML creation
 - [x] CSS creation
-- [x] Interface Finalization
+- [x] layout update
 
-## 🤝 collaborator
+## 🤝 Colaboradores
 
-We thank the following person who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./victorkaue.png" width="100px" alt="Victor kauê's photo on GitHub"/><br>
+        <img src="./assents/victorkaue.png" width="100px;" alt="Photo Victor Kauê on GitHub"/><br>
         <sub>
           <b>Victor Kauê</b>
         </sub>
@@ -31,3 +30,7 @@ We thank the following person who contributed to this project:
   </tr>
 </table>
 
+
+
+
+[⬆ Voltar ao topo](#nome-do-projeto)<br>
