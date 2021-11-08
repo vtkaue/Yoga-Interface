@@ -21,7 +21,7 @@ The project is still under development and how updates will be focused on the fo
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./assents/victorkaue.png" width="100px;" alt="Photo Victor Kauê on GitHub"/><br>
+        <img src="./Assents/victorkaue.png" width="100px;" alt="Photo Victor Kauê on GitHub"/><br>
         <sub>
           <b>Victor Kauê</b>
         </sub>
